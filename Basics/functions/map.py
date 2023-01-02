@@ -6,3 +6,4 @@ def evenodd(num):
 l1=[1,2,4,7,8]
 list(map(evenodd,l1))
 print(l1)
+x, y = [int(x) for x in input().split()]
