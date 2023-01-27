@@ -5,7 +5,9 @@ b=3
 c=4
 d=6
 e=8
-print(a^b) #2,3=1
+h=a^b #2,3=1
+print(h)
+print(type(h))
 print(a^c) #2,4=6
 print(a^d) #2,6=4
 print(a^d) #2,10=4
